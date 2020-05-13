@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [vdrebo4ka](https://up.htmlacademy.ru/htmlcss/28/user/13951).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Островский](https://htmlacademy.ru/profile/grandmaus).
 
 ---
 
